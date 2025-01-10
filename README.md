@@ -12,16 +12,18 @@
 
 ## 專案結構
 
-linebot_with_notion/ 
-│ 
-├── index.ts         
-#主要程式碼 
-├── package.json      
-#專案依賴 
-├── tsconfig.json     
-#TypeScript 設定 
-└── README.md         
-#專案說明文件
+```plaintext
+linebot_with_notion/
+│
+├── index.ts
+│   # 主要程式碼
+├── package.json
+│   # 專案依賴
+├── tsconfig.json
+│   # TypeScript 設定
+└── README.md
+    # 專案說明文件
+```
 
 
 ## 環境變數
